@@ -5,5 +5,5 @@
 
 ##
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uilian-comim/)](https://www.linkedin.com/in/uilian-comim/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ucomim/)](https://www.linkedin.com/in/ucomim/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucomim@gmail.com)](mailto:ucomim@gmail.com)
